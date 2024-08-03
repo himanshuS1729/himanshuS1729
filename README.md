@@ -311,7 +311,7 @@
 <br>
 <h3>
    <div align="center">
-      ⭐️ From [Himanshu Shekhar](https://github.com/himanshuS1729) | Let's innovate together! 🚀
+      ⭐️ From Himanshu Shekhar | Let's innovate together! 🚀
    </div>
 </h3>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
