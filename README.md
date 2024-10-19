@@ -231,7 +231,7 @@
    <h3 align="center">Streaming & Video Editing</h3>
    <div align="center">
       <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-         <thead>
+<!--          <thead>
             <tr>
                <th colspan="2" align="center" style="color: white;">Streaming Platforms</th>
             </tr>
@@ -260,7 +260,7 @@
                <td align="center" style="border: none;">
                   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/OBS_Studio_Logo.svg" width="50" height="50" alt="OBS"/><br>OBS
                </td>
-            </tr>
+            </tr> -->
          </tbody>
       </table>
    </div>
